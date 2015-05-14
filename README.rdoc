@@ -1,1 +1,15 @@
 
+testing specs for Items and tag id
+
+Items
+
+- username must be present
+- email must be present
+
+
+tagid
+
+- tagnum must be present
+- tagcustomer must be present
+- inuse can be null
+
